@@ -16,9 +16,8 @@ distributed systems.
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/ArshiyaBelim97](https://github.com/ArshiyaBelim97)* Email: [arshiyabelim@gmail.com](mailto:arshiyabelim@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/arshiyabelim](https://www.linkedin.com/in/arshiyabelim) (update if 
-different)
+* GitHub: [https://github.com/ArshiyaBelim97](https://github.com/ArshiyaBelim97)* Email: arshiya.belim2797@gmail.com
+* LinkedIn: https://www.linkedin.com/in/arshiyabelim
 * Portfolio: 
 
 ---
