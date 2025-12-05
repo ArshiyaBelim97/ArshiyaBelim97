@@ -36,8 +36,6 @@ PyTorch • TensorFlow
 * **AutoDeploy-Copilot** — Generates CI/CD + infra for AWS deployments.
 * **Kafka-Fraud-Detection** — Real-time streaming anomaly detection pipeline.
 
-(See pinned repositories below.)
-
 ---
 
 ## 👩‍💻 What I'm Working On
