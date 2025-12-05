@@ -19,7 +19,7 @@ distributed systems.
 * GitHub: [https://github.com/ArshiyaBelim97](https://github.com/ArshiyaBelim97)* Email: [arshiyabelim@gmail.com](mailto:arshiyabelim@gmail.com)
 * LinkedIn: [https://www.linkedin.com/in/arshiyabelim](https://www.linkedin.com/in/arshiyabelim) (update if 
 different)
-* Portfolio: [https://your-portfolio.com](https://your-portfolio.com) (update if available)
+* Portfolio: 
 
 ---
 
