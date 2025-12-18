@@ -29,6 +29,12 @@ PyTorch • TensorFlow
 
 ---
 
+## 🐍 Commit Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ArshiyaBelim97/ArshiyaBelim97/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 🔥 Featured Projects
 
 * **AI-Credibility-Engine** — Multi-modal detector for AI-generated content (text, image, audio, video).
